@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/samavati/static/css/main.5be5883a.css",
+    "main.js": "/samavati/static/js/main.503d9dcb.js",
+    "static/js/27.077040e8.chunk.js": "/samavati/static/js/27.077040e8.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/samavati/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/samavati/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/samavati/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/404.jpg": "/samavati/static/media/404.19e523cdb4d4a12db938.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/samavati/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/samavati/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ehsan-samavati-resume.pdf": "/samavati/static/media/ehsan-samavati-resume.cb7a9b3886aaf2e155e7.pdf",
+    "static/media/dark.jpg": "/samavati/static/media/dark.7d92bf2af46787564a58.jpg",
+    "static/media/blog-post-1.jpg": "/samavati/static/media/blog-post-1.6ff436403db485cb1821.jpg",
+    "static/media/img-mobile.jpg": "/samavati/static/media/img-mobile.23751c60a07f4ebdde68.jpg",
+    "static/media/cancel.svg": "/samavati/static/media/cancel.17825c74c3c6b6934429010ee3f913fd.svg",
+    "static/media/quote.svg": "/samavati/static/media/quote.6b6d47557f1672a2ce0f199a1bd468dc.svg",
+    "index.html": "/samavati/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5be5883a.css",
+    "static/js/main.503d9dcb.js"
+  ]
+}
