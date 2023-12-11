@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samavati/static/css/main.5be5883a.css",
-    "main.js": "/samavati/static/js/main.503d9dcb.js",
+    "main.js": "/samavati/static/js/main.f2e15803.js",
     "static/js/27.077040e8.chunk.js": "/samavati/static/js/27.077040e8.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/samavati/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/samavati/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.5be5883a.css",
-    "static/js/main.503d9dcb.js"
+    "static/js/main.f2e15803.js"
   ]
 }
